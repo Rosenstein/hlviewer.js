@@ -22,9 +22,9 @@
     undici-types "~5.26.4"
 
 "@types/pngjs@^6.0.0":
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/@types/pngjs/-/pngjs-6.0.3.tgz#33bfafdae1e6803624357be49f27ea70581a199e"
-  integrity sha512-F/WaGVKEZ1XYFlEtsWtqWm92vRfQdOqSSTBPj07BRDKnDtRhCw50DpwEQtrrDwEZUoAZAzv2FaalZiNV/54BoQ==
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/@types/pngjs/-/pngjs-6.0.4.tgz#9a457aebabd944efde1a773a0fa1d74933e8021b"
+  integrity sha512-atAK9xLKOnxiuArxcHovmnOUUGBZOQ3f0vCf43FnoKs6XnqiambT1kkJWmdo71IR+BoXSh+CueeFR0GfH3dTlQ==
   dependencies:
     "@types/node" "*"
 
