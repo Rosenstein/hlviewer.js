@@ -2435,10 +2435,10 @@ nan@^2.12.1:
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.0.tgz#7818f722027b2459a86f0295d434d1fc2336c52c"
   integrity sha512-INOFj37C7k3AfaNTtX8RhsTw7qRy7eLET14cROi9+5HAVbbHuIWUHEauBv5qT4Av2tWasiTY1Jw6puUNqRJXQg==
 
-nanoevents@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/nanoevents/-/nanoevents-8.0.0.tgz#d58d5cf69b172d794707b2468bdaccc415ad23b6"
-  integrity sha512-bYYwNCdNc5ea6/Lwh1uioU1/7aaKa3EPmNQ2weTm8PWSpbWrsaWHePe0Zq4SF+D3F3JX3cn+QdktOPCf1meOqw==
+nanoevents@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/nanoevents/-/nanoevents-9.0.0.tgz#c44fa7dde1615ac092023d5c881a3ee0b0a8c8fd"
+  integrity sha512-X8pU7IOpgKXVLPxYUI55ymXc8XuBE+uypfEyEFBtHkD1EX9KavYTVc+vXZHFyHKzA1TaZoVDqklLdQBBrxIuAw==
 
 nanoid@3.3.3:
   version "3.3.3"
