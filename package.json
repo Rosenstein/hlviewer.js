@@ -34,7 +34,7 @@
     "cross-env": "^7.0.3",
     "mocha": "^10.0.0",
     "pngjs": "^7.0.0",
-    "typescript": "^3.9.9",
+    "typescript": "^5.2.2",
     "webpack": "^5.1.1",
     "webpack-cli": "^5.1.4",
     "webpack-node-externals": "^3.0.0"
