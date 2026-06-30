@@ -9,20 +9,10 @@ export default defineConfig({
       entry: 'src/index.ts',
       name: 'HLViewer',
       fileName: (format) => (format === 'es' ? 'hlviewer.js' : 'hlviewer.min.js'),
-      formats: ['es', 'umd']
+      formats: ['es', 'umd'],
     },
-    rollupOptions: {
-      output: {
-        assetFileNames(assetInfo) {
-          if (assetInfo.name === 'style.css') {
-            return 'hlviewer.css'
-          }
-          return assetInfo.name || ''
-        }
-      }
-    }
   },
   define: {
-    VERSION: `'${require('./package.json').version}'`
-  }
+    VERSION: `'${require('./package.json').version}'`,
+  },
 })
